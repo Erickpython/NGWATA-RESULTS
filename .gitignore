@@ -1,5 +1,8 @@
 ngwatavenv/
 students.xlsx
+students_results.xlsx
+ngwataKJSEA2025.pdf
+.~lock.students_results.xlsx#
 __pycache__/
 *.pyc
 *.pyo
