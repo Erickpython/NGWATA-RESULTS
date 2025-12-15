@@ -63,9 +63,7 @@ Student data files (e.g., `students.xlsx` and generated outputs) are included in
 
 ## Video Walkthrough 🎥
 
-I will upload a demonstration video soon. Inserting link here:
-
-`Video walkthrough:` [Insert video link here]
+`Tiktok Video:` [(https://www.tiktok.com/@erick254_official/video/7583653566435380491?is_from_webapp=1&sender_device=pc&web_id=7583960060809299467)]
 
 ## Troubleshooting & Notes
 
